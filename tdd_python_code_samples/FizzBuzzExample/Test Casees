@@ -1,0 +1,7 @@
+x Can I call FizzBuzz
+- Get "1" when I pass in 1
+- Get "Fizz" when I pass in 3
+- Get "Buzz" when I pass in 5
+- Get "Fizz" when I pass in 6 (multiple of 3)
+- Get "Buzz" when I pass in 10 (multiple of 5)
+- Get "FizzBuzz" when I pass in 15 (multiple of 3 and 5)

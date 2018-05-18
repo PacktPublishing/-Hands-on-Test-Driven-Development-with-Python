@@ -1,0 +1,4 @@
+{
+  "TestDoubles_Tests.py::test_canCallDateReader": true,
+  "TestDoubles_Tests.py::test_canCallReadFromFile": true
+}

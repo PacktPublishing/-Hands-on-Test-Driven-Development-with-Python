@@ -1,0 +1,22 @@
+[
+  "DependencyTest.py::test_one[1/10]",
+  "DependencyTest.py::test_one[2/10]",
+  "DependencyTest.py::test_one[3/10]",
+  "DependencyTest.py::test_one[4/10]",
+  "DependencyTest.py::test_one[5/10]",
+  "DependencyTest.py::test_one[6/10]",
+  "DependencyTest.py::test_one[7/10]",
+  "DependencyTest.py::test_one[8/10]",
+  "DependencyTest.py::test_one[9/10]",
+  "DependencyTest.py::test_one[10/10]",
+  "DependencyTest.py::test_two[1/10]",
+  "DependencyTest.py::test_two[2/10]",
+  "DependencyTest.py::test_two[3/10]",
+  "DependencyTest.py::test_two[4/10]",
+  "DependencyTest.py::test_two[5/10]",
+  "DependencyTest.py::test_two[6/10]",
+  "DependencyTest.py::test_two[7/10]",
+  "DependencyTest.py::test_two[8/10]",
+  "DependencyTest.py::test_two[9/10]",
+  "DependencyTest.py::test_two[10/10]"
+]

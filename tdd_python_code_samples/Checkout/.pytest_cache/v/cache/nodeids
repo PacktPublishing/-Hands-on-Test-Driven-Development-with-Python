@@ -1,0 +1,8 @@
+[
+  "TestCheckout.py::test_canCalculateTotal",
+  "TestCheckout.py::test_getCorrectTotalWithMultipleItems",
+  "TestCheckout.py::test_canAddDiscountRule",
+  "TestCheckout.py::test_canApplyDiscountRule",
+  "TestCheckout.py::test_exceptionWithBadItem",
+  "TestCheckout.py::test_verifyReadPricesFile"
+]

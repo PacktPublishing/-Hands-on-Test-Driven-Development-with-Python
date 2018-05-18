@@ -1,0 +1,5 @@
+[
+  "LineReader_Test.py::test_returnsCorrectString",
+  "LineReader_Test.py::test_throwsExceptionWithBadFile",
+  "LineReader_Test.py::test_my"
+]

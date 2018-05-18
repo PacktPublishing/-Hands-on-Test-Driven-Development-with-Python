@@ -1,0 +1,16 @@
+{
+  "BestPracticesTests.py::test_failRandomly[1/10]": true,
+  "BestPracticesTests.py::test_failRandomly[2/10]": true,
+  "BestPracticesTests.py::test_failRandomly[3/10]": true,
+  "BestPracticesTests.py::test_failRandomly[4/10]": true,
+  "BestPracticesTests.py::test_failRandomly[6/10]": true,
+  "BestPracticesTests.py::test_failRandomly[8/10]": true,
+  "DependencyTest.py::TestDependencies::()::test_two": true,
+  "DependencyTest.py::test_two[1/10]": true,
+  "DependencyTest.py::test_two[3/10]": true,
+  "DependencyTest.py::test_two[6/10]": true,
+  "RandomFailureTest.py::test_failRandomly[10/10]": true,
+  "RandomFailureTest.py::test_failRandomly[3/10]": true,
+  "RandomFailureTest.py::test_failRandomly[6/10]": true,
+  "RandomFailureTest.py::test_failRandomly[8/10]": true
+}

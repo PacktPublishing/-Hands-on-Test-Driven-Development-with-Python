@@ -1,0 +1,3 @@
+x Can call getURL
+x getURL calls HTTP correctly and returns
+  correct response
